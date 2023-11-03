@@ -1,4 +1,4 @@
-package com.example.spring_lecture.dto;
+package com.example.spring_lecture.rest_api.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.PropertyNamingStrategy;

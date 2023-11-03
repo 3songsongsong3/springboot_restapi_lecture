@@ -1,6 +1,6 @@
-package com.example.spring_lecture.controller;
+package com.example.spring_lecture.rest_api.controller;
 
-import com.example.spring_lecture.dto.User;
+import com.example.spring_lecture.rest_api.dto.User;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

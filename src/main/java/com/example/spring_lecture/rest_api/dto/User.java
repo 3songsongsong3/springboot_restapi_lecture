@@ -1,4 +1,4 @@
-package com.example.spring_lecture.dto;
+package com.example.spring_lecture.rest_api.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;

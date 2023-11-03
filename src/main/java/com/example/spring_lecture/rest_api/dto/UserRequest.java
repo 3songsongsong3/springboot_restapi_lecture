@@ -1,4 +1,4 @@
-package com.example.spring_lecture.dto;
+package com.example.spring_lecture.rest_api.dto;
 
 public class UserRequest {
 

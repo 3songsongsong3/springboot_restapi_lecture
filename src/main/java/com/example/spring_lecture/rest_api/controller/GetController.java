@@ -1,6 +1,6 @@
-package com.example.spring_lecture.controller;
+package com.example.spring_lecture.rest_api.controller;
 
-import com.example.spring_lecture.dto.UserRequest;
+import com.example.spring_lecture.rest_api.dto.UserRequest;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;

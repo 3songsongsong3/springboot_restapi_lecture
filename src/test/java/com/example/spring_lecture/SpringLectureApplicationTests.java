@@ -1,6 +1,6 @@
 package com.example.spring_lecture;
 
-import com.example.spring_lecture.dto.User;
+import com.example.spring_lecture.rest_api.dto.User;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;

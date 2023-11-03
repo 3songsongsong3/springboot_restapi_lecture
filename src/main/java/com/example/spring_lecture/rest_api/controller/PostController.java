@@ -1,6 +1,6 @@
-package com.example.spring_lecture.controller;
+package com.example.spring_lecture.rest_api.controller;
 
-import com.example.spring_lecture.dto.PostRequestDTO;
+import com.example.spring_lecture.rest_api.dto.PostRequestDTO;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

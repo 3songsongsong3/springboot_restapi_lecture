@@ -1,4 +1,4 @@
-package com.example.spring_lecture.controller;
+package com.example.spring_lecture.rest_api.controller;
 
 import org.springframework.web.bind.annotation.*;
 
